@@ -1,0 +1,95 @@
+{\rtf1\ansi\ansicpg1252\cocoartf949\cocoasubrtf540
+{\fonttbl\f0\fnil\fcharset0 Monaco;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww21520\viewh12460\viewkind0
+\deftab720
+\pard\pardeftab720
+
+\f0\fs22 \cf0 <?xml version="1.0" encoding="UTF-8" ?>\
+<kml xmlns="http://earth.google.com/kml/2.0"><Response>\
+  <name>37.422006,-122.084095</name>\
+  <Status>\
+    <code>200</code>\
+    <request>geocode</request>\
+  </Status>\
+  <Placemark id="p1">\
+    <address>1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA</address>\
+    <AddressDetails Accuracy="8" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><Country><CountryNameCode>US</CountryNameCode><CountryName>USA</CountryName><AdministrativeArea><AdministrativeAreaName>CA</AdministrativeAreaName><SubAdministrativeArea><SubAdministrativeAreaName>Santa Clara</SubAdministrativeAreaName><Locality><LocalityName>Mountain View</LocalityName><Thoroughfare><ThoroughfareName>1600 Amphitheatre Pkwy</ThoroughfareName></Thoroughfare><PostalCode><PostalCodeNumber>94043</PostalCodeNumber></PostalCode></Locality></SubAdministrativeArea></AdministrativeArea></Country></AddressDetails>\
+    <ExtendedData>\
+      <LatLonBox north="37.4251466" south="37.4188514" east="-122.0811574" west="-122.0874526" />\
+    </ExtendedData>\
+    <Point><coordinates>-122.0842090,37.4219550,0</coordinates></Point>\
+  </Placemark>\
+  <Placemark id="p2">\
+    <address>Googleplex, Mountain View, CA 94043, USA</address>\
+    <AddressDetails Accuracy="9" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><AddressLine>Googleplex</AddressLine></AddressDetails>\
+    <ExtendedData>\
+      <LatLonBox north="37.4249916" south="37.4186964" east="-122.0808784" west="-122.0871736" />\
+    </ExtendedData>\
+    <Point><coordinates>-122.0840260,37.4218440,0</coordinates></Point>\
+  </Placemark>\
+  <Placemark id="p3">\
+    <address>Whisman Elementary, California, USA</address>\
+    <AddressDetails Accuracy="0" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><AddressLine>Whisman Elementary</AddressLine></AddressDetails>\
+    <ExtendedData>\
+      <LatLonBox north="37.4778380" south="37.3917180" east="-122.0591050" west="-122.1156740" />\
+    </ExtendedData>\
+    <Point><coordinates>-122.0723816,37.4284340,0</coordinates></Point>\
+  </Placemark>\
+  <Placemark id="p4">\
+    <address>Mountain View, CA 94043, USA</address>\
+    <AddressDetails Accuracy="5" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><Country><CountryNameCode>US</CountryNameCode><CountryName>USA</CountryName><AdministrativeArea><AdministrativeAreaName>CA</AdministrativeAreaName><SubAdministrativeArea><SubAdministrativeAreaName>Santa Clara</SubAdministrativeAreaName><Locality><LocalityName>Mountain View</LocalityName><PostalCode><PostalCodeNumber>94043</PostalCodeNumber></PostalCode></Locality></SubAdministrativeArea></AdministrativeArea></Country></AddressDetails>\
+    <ExtendedData>\
+      <LatLonBox north="37.4528390" south="37.3855400" east="-122.0339720" west="-122.1079070" />\
+    </ExtendedData>\
+    <Point><coordinates>-122.0723816,37.4284340,0</coordinates></Point>\
+  </Placemark>\
+  <Placemark id="p5">\
+    <address>Mountain View, CA, USA</address>\
+    <AddressDetails Accuracy="4" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><Country><CountryNameCode>US</CountryNameCode><CountryName>USA</CountryName><AdministrativeArea><AdministrativeAreaName>CA</AdministrativeAreaName><SubAdministrativeArea><SubAdministrativeAreaName>Santa Clara</SubAdministrativeAreaName><Locality><LocalityName>Mountain View</LocalityName></Locality></SubAdministrativeArea></AdministrativeArea></Country></AddressDetails>\
+    <ExtendedData>\
+      <LatLonBox north="37.4698870" south="37.3565410" east="-122.0446720" west="-122.1178620" />\
+    </ExtendedData>\
+    <Point><coordinates>-122.0838511,37.3860517,0</coordinates></Point>\
+  </Placemark>\
+  <Placemark id="p6">\
+    <address>Mountain View-los Altos Union, California, USA</address>\
+    <AddressDetails Accuracy="0" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><AddressLine>Mountain View-los Altos Union</AddressLine></AddressDetails>\
+    <ExtendedData>\
+      <LatLonBox north="37.4778380" south="37.3044130" east="-122.0318830" west="-122.1925760" />\
+    </ExtendedData>\
+    <Point><coordinates>-122.0951062,37.3831595,0</coordinates></Point>\
+  </Placemark>\
+  <Placemark id="p7">\
+    <address>San Jose, California, USA</address>\
+    <AddressDetails Accuracy="4" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><Country><CountryNameCode>US</CountryNameCode><CountryName>USA</CountryName><AdministrativeArea><AdministrativeAreaName>CA</AdministrativeAreaName><SubAdministrativeArea><SubAdministrativeAreaName>Santa Clara</SubAdministrativeAreaName><AddressLine>San Jose</AddressLine></SubAdministrativeArea></AdministrativeArea></Country></AddressDetails>\
+    <ExtendedData>\
+      <LatLonBox north="37.4846370" south="37.0323470" east="-121.5070500" west="-122.1912920" />\
+    </ExtendedData>\
+    <Point><coordinates>-121.8562610,37.2915883,0</coordinates></Point>\
+  </Placemark>\
+  <Placemark id="p8">\
+    <address>Santa Clara, California, USA</address>\
+    <AddressDetails Accuracy="3" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><Country><CountryNameCode>US</CountryNameCode><CountryName>USA</CountryName><AdministrativeArea><AdministrativeAreaName>CA</AdministrativeAreaName><SubAdministrativeArea><SubAdministrativeAreaName>Santa Clara</SubAdministrativeAreaName></SubAdministrativeArea></AdministrativeArea></Country></AddressDetails>\
+    <ExtendedData>\
+      <LatLonBox north="37.4846370" south="36.8941550" east="-121.2081780" west="-122.2024760" />\
+    </ExtendedData>\
+    <Point><coordinates>-121.7195459,37.2938907,0</coordinates></Point>\
+  </Placemark>\
+  <Placemark id="p9">\
+    <address>Silicon Valley, California, USA</address>\
+    <AddressDetails Accuracy="3" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><AddressLine>Silicon Valley</AddressLine></AddressDetails>\
+    <ExtendedData>\
+      <LatLonBox north="37.4846370" south="36.1966780" east="-120.5965620" west="-122.2024760" />\
+    </ExtendedData>\
+    <Point><coordinates>-122.0347600,37.3625170,0</coordinates></Point>\
+  </Placemark>\
+  <Placemark id="p10">\
+    <address>California, USA</address>\
+    <AddressDetails Accuracy="2" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><Country><CountryNameCode>US</CountryNameCode><CountryName>USA</CountryName><AdministrativeArea><AdministrativeAreaName>CA</AdministrativeAreaName></AdministrativeArea></Country></AddressDetails>\
+    <ExtendedData>\
+      <LatLonBox north="42.0095169" south="32.5288320" east="-114.1312110" west="-124.4820030" />\
+    </ExtendedData>\
+    <Point><coordinates>-119.4179324,36.7782610,0</coordinates></Point>\
+  </Placemark>\
+</Response></kml>}

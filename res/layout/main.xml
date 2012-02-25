@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+<TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Latitude:"/>
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/txtLatitude"></TextView>
+<TextView android:id="@+id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Longitude:"></TextView>
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/txtLongitude"></TextView>
+<Button android:id="@+id/btnReverseGeocode" android:text="What City Am I In?" android:layout_width="150px" android:layout_marginTop="275px" android:layout_marginLeft="75px" android:layout_height="50px"></Button>
+</LinearLayout>

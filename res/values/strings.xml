@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">GeocodingExample</string>
+<string name="GOOGLE_MAPS_API_KEY">0VV4vaNBXBx4Vu19jim2eoGAn5BnbatPvHRer5Q</string>
+</resources>
